@@ -1,6 +1,6 @@
 Entrega del taller 2 del curso de deep learning junto a mis compañeros Maximiliano R. y Hugo R. Investigamos sobre el uso de la Data Augmentation y una competencia de reconocimiento de poses de yoga
 
-
+video: https://youtu.be/twlWGVZGHh0
 
 
 # Conda environment with environment.yml
