@@ -1,3 +1,8 @@
+Entrega del taller 2 del curso de deep learning junto a mis compañeros Maximiliano R. y Hugo R. Investigamos sobre el uso de la Data Augmentation y una competencia de reconocimiento de poses de yoga
+
+
+
+
 # Conda environment with environment.yml
 
 [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/binder-examples/conda_environment/master?filepath=index.ipynb)
